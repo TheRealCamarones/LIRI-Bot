@@ -1,0 +1,41 @@
+
+----------------------------------------------------------
+    Movie Title: Remember the Titans
+    Movie Year: 2000
+    IMDB Rating: 7.8
+    Rotten Tomatoes Rating: undefined
+    Country Produced: USA
+    Movie Language: English
+    Movie Plot: The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.
+    Actors: Denzel Washington, Will Patton, Wood Harris, Ryan Hurst
+----------------------------------------------------------
+----------------------------------------------------------
+    Movie Title: Remember the Titans
+    Movie Year: 2000
+    IMDB Rating: 7.8
+    Rotten Tomatoes Rating: 73%
+    Country Produced: USA
+    Movie Language: English
+    Movie Plot: The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.
+    Actors: Denzel Washington, Will Patton, Wood Harris, Ryan Hurst
+----------------------------------------------------------
+----------------------------------------------------------
+    Movie Title: Mr. Nobody
+    Movie Year: 2009
+    IMDB Rating: 7.8
+    Rotten Tomatoes Rating: 67%
+    Country Produced: Belgium, Germany, Canada, France, USA, UK
+    Movie Language: English, Mohawk
+    Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+    Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------------------------------------------------------
+----------------------------------------------------------
+    Movie Title: Star Trek
+    Movie Year: 2009
+    IMDB Rating: 8.0
+    Rotten Tomatoes Rating: 94%
+    Country Produced: USA, Germany
+    Movie Language: English
+    Movie Plot: The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
+    Actors: Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana
+----------------------------------------------------------

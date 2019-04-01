@@ -1,0 +1,21 @@
+
+------------------------------------------------
+    Concert Venue: The Pacific Amphitheatre
+    Venue Location: Costa Mesa, CA
+    Concert Date: Invalid date
+------------------------------------------------
+------------------------------------------------
+    Concert Venue: The Pacific Amphitheatre
+    Venue Location: Costa Mesa, CA
+    Concert Date: Invalid date
+------------------------------------------------
+------------------------------------------------
+    Concert Venue: The Pacific Amphitheatre
+    Venue Location: Costa Mesa, CA
+    Concert Date: 07/10/2019
+------------------------------------------------
+------------------------------------------------
+    Concert Venue: Summer Sonic Osaka [08.16 - 08.18]
+    Venue Location: Osaka, 
+    Concert Date: 08/16/2019
+------------------------------------------------
