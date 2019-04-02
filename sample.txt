@@ -49,3 +49,13 @@
     Movie Plot: Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.
     Actors: Elizabeth Berrington, Rudy Blomme, Olivier Bonjour, Mark Donovan
 ----------------------------------------------------------
+----------------------------------------------------------
+    Movie Title: All About the Benjamins
+    Movie Year: 2002
+    IMDB Rating: 5.8
+    Rotten Tomatoes Rating: 30%
+    Country Produced: USA, Germany
+    Movie Language: English, French
+    Movie Plot: Bounty hunter Bucum Jackson (Ice Cube) teams with the small-time con artist, Reggie Wright (Mike Epps), that he is pursuing, in an attempt to locate a missing stash of diamonds and a ...
+    Actors: Ice Cube, Mike Epps, Tommy Flanagan, Carmen Chaplin
+----------------------------------------------------------

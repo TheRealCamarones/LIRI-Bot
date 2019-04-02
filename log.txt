@@ -34,3 +34,45 @@
     Song Name: Ric Flair Drip (& Metro Boomin)
     Preview URL: https://p.scdn.co/mp3-preview/65db0cfbd7235bcc2cafe698c656853f845a9133?cid=89405d34f60248fcaaf87b845997ac41
     Album Name: Without Warning
+--------------------------------------------------------
+    Song Artist(s): Yo Gotti
+    Song Name: Put a Date On It (feat. Lil Baby)
+    Preview URL: https://p.scdn.co/mp3-preview/a972acdaefc637e1edc9221aea4d56f5714ee59c?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: Put a Date On It (feat. Lil Baby)
+------------------------------------------------
+    Concert Venue: Dunkin' Donuts Center
+    Venue Location: Providence, RI
+    Concert Date: 04/19/2019
+------------------------------------------------
+------------------------------------------------
+    Concert Venue: 20 Monroe Live
+    Venue Location: Grand Rapids, MI
+    Concert Date: 04/02/2019
+------------------------------------------------
+--------------------------------------------------------
+    Song Artist(s): Ariana Grande
+    Song Name: break up with your girlfriend, i'm bored
+    Preview URL: null
+    Album Name: thank u, next
+------------------------------------------------
+    Artist: lil baby
+    Concert Venue: 20 Monroe Live
+    Venue Location: Grand Rapids, MI
+    Concert Date: 04/02/2019
+------------------------------------------------
+------------------------------------------------
+    Artist: mumford and sons
+    Concert Venue: Mediolanum Forum
+    Venue Location: Assago, 
+    Concert Date: 04/29/2019
+------------------------------------------------
+--------------------------------------------------------
+    Song Artist(s): Harry Styles
+    Song Name: Sign of the Times
+    Preview URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: Harry Styles
+--------------------------------------------------------
+    Song Artist(s): Backstreet Boys
+    Song Name: I Want It That Way
+    Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: The Hits--Chapter One

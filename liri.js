@@ -34,6 +34,7 @@ function findConcert() {
             var convertedDate = moment(JSONdata.datetime).format(dateFormat);
             var text = `
 ------------------------------------------------
+    Artist: ${term}
     Concert Venue: ${JSONdata.venue.name}
     Venue Location: ${JSONdata.venue.city}, ${JSONdata.venue.region}
     Concert Date: ${convertedDate}
@@ -55,34 +56,36 @@ function findConcert() {
 };
 
 function spotifyThis() {
-    
+
+    if (!term) {
+        term = "The Sign"
+    }
     spotify
-    .search({ type: 'track', query: term })
-    .then(function(response) {
-        var songData = response.tracks.items[0];
-        var text = `
+        .search({ type: 'track', query: term })
+        .then(function (response) {
+            var songData = response.tracks.items[0];
+            var text = `
 --------------------------------------------------------
     Song Artist(s): ${songData.album.artists[0].name}
     Song Name: ${songData.name}
     Preview URL: ${songData.preview_url}
     Album Name: ${songData.album.name}`
-        console.log(text);
-        fs.appendFile("log.txt", text, function (err) {
+            console.log(text);
+            fs.appendFile("log.txt", text, function (err) {
 
-            // If an error was experienced we will log it.
-            if (err) {
-                console.log(err);
-            }
-            // If no error is experienced, we'll log the phrase "Content Added" to our node console.
-            else {
-                console.log("Content Added!");
-            }
+                // If an error was experienced we will log it.
+                if (err) {
+                    console.log(err);
+                }
+                // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+                else {
+                    console.log("Content Added!");
+                }
+            });
+        })
+        .catch(function (err) {
+            console.log(err);
         });
-    })
-    .catch(function(err) {
-        console.log(err);
-    });
-    
 }
 
 function findMovie() {
@@ -128,14 +131,35 @@ function doRandom() {
             return console.log(error);
         }
 
-        // We will then print the contents of data
-        console.log(data);
+        var random = data.split(",");
+        command = random[0];
+        term = random[1];
 
-        // // Then split it by commas (to make it more readable)
-        // var dataArr = data.split(",");
+        spotify
+            .search({ type: 'track', query: term })
+            .then(function (response) {
+                var songData = response.tracks.items[0];
+                var text = `
+--------------------------------------------------------
+    Song Artist(s): ${songData.album.artists[0].name}
+    Song Name: ${songData.name}
+    Preview URL: ${songData.preview_url}
+    Album Name: ${songData.album.name}`
+                console.log(text);
+                fs.appendFile("log.txt", text, function (err) {
 
-        // // We will then re-display the content as an array for later use.
-        // console.log(dataArr);
-
-    });
+                    // If an error was experienced we will log it.
+                    if (err) {
+                        console.log(err);
+                    }
+                    // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+                    else {
+                        console.log("Content Added!");
+                    }
+                });
+            })
+            .catch(function (err) {
+                console.log(err);
+            });
+    })
 }
