@@ -76,3 +76,131 @@
     Song Name: I Want It That Way
     Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=89405d34f60248fcaaf87b845997ac41
     Album Name: The Hits--Chapter One
+------------------------------------------------
+    Artist: khalid
+    Concert Venue: Gila River Arena
+    Venue Location: Glendale, AZ
+    Concert Date: 06/20/2019
+------------------------------------------------
+------------------------------------------------
+    Artist: sza
+    Concert Venue: SOMETHING IN THE WATER
+    Venue Location: Virginia Beach, VA
+    Concert Date: 04/26/2019
+------------------------------------------------
+--------------------------------------------------------
+    Song Artist(s): Future
+    Song Name: Never Stop
+    Preview URL: https://p.scdn.co/mp3-preview/8b2851f20d3eb049d5d8896b0ad45040e74d951b?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: Future Hndrxx Presents: The WIZRD
+--------------------------------------------------------
+    Song Artist(s): Future
+    Song Name: Never Stop
+    Preview URL: https://p.scdn.co/mp3-preview/8b2851f20d3eb049d5d8896b0ad45040e74d951b?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: Future Hndrxx Presents: The WIZRD
+--------------------------------------------------------
+    Song Artist(s): Queen
+    Song Name: We Are The Champions - Remastered 2011
+    Preview URL: null
+    Album Name: News Of The World (Deluxe Remastered Version)
+--------------------------------------------------------
+    Song Artist(s): Backstreet Boys
+    Song Name: I Want It That Way
+    Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: The Hits--Chapter One
+--------------------------------------------------------
+    Song Artist(s): George Michael
+    Song Name: Don't Let the Sun Go Down on Me
+    Preview URL: https://p.scdn.co/mp3-preview/5b030d6dd95a91096f8d5bbe84a9eef1af25a3ee?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: Ladies And Gentlemen... The Best Of George Michael
+------------------------------------------------
+    Artist: peter frampton
+    Concert Venue: The Joint
+    Venue Location: Tulsa, OK
+    Concert Date: 06/18/2019
+------------------------------------------------
+------------------------------------------------
+    Artist: red hot chili peppers
+    Concert Venue: Summer Sonic Osaka [08.16 - 08.18]
+    Venue Location: Osaka, 
+    Concert Date: 08/16/2019
+------------------------------------------------
+------------------------------------------------
+    Artist: bon jovi
+    Concert Venue: The Luzhniki Stadium
+    Venue Location: Moscow, 
+    Concert Date: 05/31/2019
+------------------------------------------------
+------------------------------------------------
+    Artist: lady gaga
+    Concert Venue: LADY GAGA ENIGMA
+    Venue Location: Las Vegas, NV
+    Concert Date: 05/30/2019
+------------------------------------------------
+------------------------------------------------
+    Artist: peter frampton
+    Concert Venue: The Joint
+    Venue Location: Tulsa, OK
+    Concert Date: 06/18/2019
+------------------------------------------------
+------------------------------------------------
+    Artist: lady gaga
+    Concert Venue: LADY GAGA ENIGMA
+    Venue Location: Las Vegas, NV
+    Concert Date: 05/30/2019
+------------------------------------------------
+--------------------------------------------------------
+    Song Artist(s): Lil Baby
+    Song Name: Drip Too Hard (Lil Baby & Gunna)
+    Preview URL: null
+    Album Name: Drip Harder
+--------------------------------------------------------
+    Song Artist(s): 21 Savage
+    Song Name: Ric Flair Drip (& Metro Boomin)
+    Preview URL: https://p.scdn.co/mp3-preview/65db0cfbd7235bcc2cafe698c656853f845a9133?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: Without Warning
+--------------------------------------------------------
+    Song Artist(s): Bon Jovi
+    Song Name: Livin' On A Prayer
+    Preview URL: null
+    Album Name: Slippery When Wet
+--------------------------------------------------------
+    Song Artist(s): J. Cole
+    Song Name: MIDDLE CHILD
+    Preview URL: null
+    Album Name: MIDDLE CHILD
+--------------------------------------------------------
+    Song Artist(s): Yo Gotti
+    Song Name: Put a Date On It (feat. Lil Baby)
+    Preview URL: https://p.scdn.co/mp3-preview/a972acdaefc637e1edc9221aea4d56f5714ee59c?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: Put a Date On It (feat. Lil Baby)
+--------------------------------------------------------
+    Song Artist(s): Harry Styles
+    Song Name: Sign of the Times
+    Preview URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: Harry Styles
+----------------------------------------------------------
+    Movie Title: Frozen
+    Movie Year: 2013
+    IMDB Rating: 7.5
+    Rotten Tomatoes Rating: 90%
+    Country Produced: USA
+    Movie Language: English, Norwegian
+    Movie Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+    Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+----------------------------------------------------------
+----------------------------------------------------------
+    Movie Title: Brave
+    Movie Year: 2012
+    IMDB Rating: 7.1
+    Rotten Tomatoes Rating: 79%
+    Country Produced: USA, UK
+    Movie Language: English
+    Movie Plot: Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.
+    Actors: Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters
+----------------------------------------------------------
+--------------------------------------------------------
+    Song Artist(s): Backstreet Boys
+    Song Name: I Want It That Way
+    Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=89405d34f60248fcaaf87b845997ac41
+    Album Name: The Hits--Chapter One

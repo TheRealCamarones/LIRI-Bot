@@ -108,7 +108,7 @@ function findMovie() {
     Actors: ${movieInfo.Actors}
 ----------------------------------------------------------`;
             console.log(text);
-            fs.appendFile("sample.txt", text, function (err) {
+            fs.appendFile("log.txt", text, function (err) {
 
                 // If an error was experienced we will log it.
                 if (err) {

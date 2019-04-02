@@ -59,3 +59,53 @@
     Movie Plot: Bounty hunter Bucum Jackson (Ice Cube) teams with the small-time con artist, Reggie Wright (Mike Epps), that he is pursuing, in an attempt to locate a missing stash of diamonds and a ...
     Actors: Ice Cube, Mike Epps, Tommy Flanagan, Carmen Chaplin
 ----------------------------------------------------------
+----------------------------------------------------------
+    Movie Title: Harry Potter and the Deathly Hallows: Part 2
+    Movie Year: 2011
+    IMDB Rating: 8.1
+    Rotten Tomatoes Rating: 96%
+    Country Produced: USA, UK
+    Movie Language: English
+    Movie Plot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+    Actors: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+----------------------------------------------------------
+----------------------------------------------------------
+    Movie Title: Brave
+    Movie Year: 2012
+    IMDB Rating: 7.1
+    Rotten Tomatoes Rating: 79%
+    Country Produced: USA, UK
+    Movie Language: English
+    Movie Plot: Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.
+    Actors: Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters
+----------------------------------------------------------
+----------------------------------------------------------
+    Movie Title: All About the Benjamins
+    Movie Year: 2002
+    IMDB Rating: 5.8
+    Rotten Tomatoes Rating: 30%
+    Country Produced: USA, Germany
+    Movie Language: English, French
+    Movie Plot: Bounty hunter Bucum Jackson (Ice Cube) teams with the small-time con artist, Reggie Wright (Mike Epps), that he is pursuing, in an attempt to locate a missing stash of diamonds and a ...
+    Actors: Ice Cube, Mike Epps, Tommy Flanagan, Carmen Chaplin
+----------------------------------------------------------
+----------------------------------------------------------
+    Movie Title: Gone Girl
+    Movie Year: 2014
+    IMDB Rating: 8.1
+    Rotten Tomatoes Rating: 87%
+    Country Produced: USA
+    Movie Language: English
+    Movie Plot: With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
+    Actors: Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry
+----------------------------------------------------------
+----------------------------------------------------------
+    Movie Title: Brave
+    Movie Year: 2012
+    IMDB Rating: 7.1
+    Rotten Tomatoes Rating: 79%
+    Country Produced: USA, UK
+    Movie Language: English
+    Movie Plot: Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.
+    Actors: Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters
+----------------------------------------------------------
