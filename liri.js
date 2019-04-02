@@ -57,13 +57,32 @@ function findConcert() {
 function spotifyThis() {
     
     spotify
-    .search({ type: 'track', query: 'All the Small Things' })
+    .search({ type: 'track', query: term })
     .then(function(response) {
-        console.log(response.tracks.items[0]);
+        var songData = response.tracks.items[0];
+        var text = `
+--------------------------------------------------------
+    Song Artist(s): ${songData.album.artists[0].name}
+    Song Name: ${songData.name}
+    Preview URL: ${songData.preview_url}
+    Album Name: ${songData.album.name}`
+        console.log(text);
+        fs.appendFile("log.txt", text, function (err) {
+
+            // If an error was experienced we will log it.
+            if (err) {
+                console.log(err);
+            }
+            // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+            else {
+                console.log("Content Added!");
+            }
+        });
     })
     .catch(function(err) {
         console.log(err);
     });
+    
 }
 
 function findMovie() {
